@@ -1,16 +1,28 @@
-.spantitle{
+.titulo{
     color:red;
-
-}
-.bloques{
     text-align: center;
-    background: aquamarine;
-    border: 5px solid purple;
-
-    margin: 200px 111px;
 }
-.titulocentral{
-    text-align: center;
-    color:rosybrown ;
+.CENTRAR{
+text-align: center;
+    color:red;
+}
 
+.modelbotton{
+   background: white;
+    color:red;
+    text-decoration: none;
+display:inline-block;
+border:2px solid red;
+    padding:15px 20px;
+    margin:10px;
+}
+.modelbotton:hover{
+    background: dodgerblue;
+    color:white;
+}
+
+.marco{
+    width: 100%;
+    height: 200px;
+    border:1px solid blue;
 }
